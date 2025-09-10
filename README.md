@@ -1,7 +1,6 @@
 I’m interested in design, innovation, user experience, and data-driven insights. <br>
-I’m currently learning Python, AI product development, SQL, and web automation <br>
-📫 How to reach me: linkedin.com/in/dscosta <br>
-⚡ Fun fact: I find inspiration for design in unexpected places — from podcasts to nature to bee colonies!
+I’m currently learning Python, AI product development, SQL, and web automation <br><br>
+How to reach me: linkedin.com/in/dscosta
 
 <!---
 diegosbaz/diegosbaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
